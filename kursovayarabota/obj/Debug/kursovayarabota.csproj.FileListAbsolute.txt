@@ -1,0 +1,32 @@
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csproj.AssemblyReference.cache
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.Form1.resources
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.Properties.Resources.resources
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csproj.GenerateResource.cache
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csproj.CoreCompileInputs.cache
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.exe.config
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.exe
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.pdb
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.exe
+E:\VisualStudio\source\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.pdb
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csprojAssemblyReference.cache
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.Form1.resources
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.Properties.Resources.resources
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csproj.GenerateResource.cache
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csproj.CoreCompileInputs.cache
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.exe
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.pdb
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.exe.config
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.exe
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.pdb
+D:\Users\211229\Desktop\курсач\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.Form2.resources
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.exe.config
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.exe
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\bin\Debug\kursovayarabota.pdb
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csproj.AssemblyReference.cache
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.Form1.resources
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.Form2.resources
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.Properties.Resources.resources
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csproj.GenerateResource.cache
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.csproj.CoreCompileInputs.cache
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.exe
+C:\Users\denity\Downloads\Telegram Desktop\kursovayarabotafinal\kursovayarabota\kursovayarabota\obj\Debug\kursovayarabota.pdb

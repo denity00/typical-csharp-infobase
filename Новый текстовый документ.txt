@@ -1,0 +1,3 @@
+Строки не были удалены
+
+При попытке удаления строки1 произошла ошибка Источник ошибки: .Net SqlClient Data Provider. Сообщение об ошибке: The DELETE statement conflicted with the REFERENCE constraint "FK_ТоварыЗак_Номер_5070F446" " The conflict occured in database "KURSA4SHAROV", table "dbo.ТоварыЗаказа", column "НомерЗаказаFK". The statement has been terminated 
